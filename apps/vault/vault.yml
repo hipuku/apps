@@ -1,0 +1,12 @@
+name: Vault
+description: 'Offline library for the colours, fonts, palettes and type scales a project collects.'
+website: https://github.com/hipuku/vault
+category: Graphics & Design
+repository: https://github.com/hipuku/vault
+keywords:
+  - colour
+  - typography
+  - design-tokens
+  - palette
+  - oklch
+license: MIT
